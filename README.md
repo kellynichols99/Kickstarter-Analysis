@@ -15,7 +15,7 @@ If we were to look into the successful campaigns based on the launch date we see
 ### Analysis of Outcomes Based on Goals
 
 If we are just looking into campaigns based on the financial goal set, then we will see that the following ranges have the highest successful rate. Less than $5,000 have been the most successful, as well as the $35,000 to $44,999 range.
-<img src="/resources/Outcomes_vs_Goals.png">
+<img src="https://github.com/kellynichols99/Kickstarter-Analysis/blob/main/Resources/Outcomes_vs_Goals.png">
 
 ### Challenges and Difficulties Encountered
 These rates can also change widly based on the campaign location, so it is suggested to also filter out eroneus locations int he decision process. 
