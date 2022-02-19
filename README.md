@@ -10,7 +10,7 @@ We were challanged with the amount a data available from historical campaigns an
 ### Analysis of Outcomes Based on Launch Date
 
 If we were to look into the successful campaigns based on the launch date we see that the months of May and June are highly successful for the theater community.
-<img src="/https://github.com/kellynichols99/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png">
+<img src="https://github.com/kellynichols99/Kickstarter-Analysis/blob/main/Resources/Theater_Outcomes_vs_Launch.png">
 
 ### Analysis of Outcomes Based on Goals
 
